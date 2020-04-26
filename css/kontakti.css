@@ -1,0 +1,149 @@
+/* --------------------Header------------------------- */
+body{
+	font-family: Cramaten, sans-serif;
+	padding: 0;
+	margin:0;
+	background-color:#FAFAFA;
+}
+h1,p{
+	padding:0;
+	margin:0;
+}
+ul {
+	margin: 0px;
+	padding: 0px;
+}
+
+.logo{
+	margin: auto;
+	height: 190px;
+	width: 165px;
+	margin-top: 10px;
+}
+
+.poisk{
+	text-align: right;
+
+}
+
+.woiti{
+	margin-right: 48px;
+	margin-top: 10px;
+	margin-bottom: 9px;
+
+}
+
+.poiski{
+	margin-right: 30px;
+	margin-top: 6.5px;
+}
+
+.red{
+	height: 48px;
+	width: 100%;
+	background-color: #A72D3B;
+} 
+/* ---------- /header------------------------------- */
+.zagolowok{
+	font-size: 120px;
+	color: black;
+	text-align: center;
+	text-decoration: underline;
+	margin-top: 30px;
+}
+.minizagolowok{
+	font-size: 35px;
+	color: #8F4A48;
+	text-align: center;
+	margin-top: 30px;
+}
+.infa{
+	font-size: 57px;
+	color: black;
+	text-align: center;
+	margin-top: 30;
+}
+
+
+
+
+
+
+
+
+/*-------------------foter---------------------------*/
+
+.niz{
+
+	height: 48px;	
+	width: 100%;
+	background-color: #A72D3B;
+	margin-bottom:25px ;
+
+}
+footer{
+	width: 100%;
+	height: auto;
+	background: #707070
+	margin:0 auto;
+	text-align: center;
+	padding-top: 25px;
+
+}
+
+.container_foot{
+display: flex;
+width: 100%;
+margin-top: -25px;
+text-align:left; 
+display: flex;
+}
+.footer_color{
+	height: 366px;	
+	width: 75%;
+	background-color: #38393D;
+	display: flex;
+
+}
+.footer_color2{
+	height: 366px;	
+	width: 25%;
+	background-color: #3C3D40;
+	display: flex;
+	background-image: url(../img/skripka.png);
+	background-repeat: no-repeat;
+	background-position:60% 50%;
+}
+.foter_png{
+	margin-left: 93px;
+	margin-top: 31px;
+}
+.spiso4ek{
+	list-style-type: none;
+	 font-size: 35px;
+	 margin-left: 105px;
+	 margin-top: 15px;
+	 color:#8F4A48;
+	 text-decoration:underline
+}
+.spiso4ek a {
+	color:#8F4A48;
+}
+.setiblock{
+	margin-left: 465px;
+	margin-top: 280px; 
+
+}
+.s{
+	text-decoration:underline;
+	list-style-type: none;
+	display: flex;
+	
+}
+.nomer{
+	font-size: 32px;
+	color:#FFFFFF;
+	margin-left: 43px;
+	margin-top: 30px;
+}
+/* *-------------------/foter---------------------------*/
